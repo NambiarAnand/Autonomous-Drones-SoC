@@ -2,7 +2,7 @@
 
 # Autonomous Navigation in Drones
 
-This project aims to develop autonomous navigation capabilities for drones and TurtleBots using ROS 2, Gazebo, and the Navigation 2 (Nav2) stack. The project was partially completed with significant achievements in setting up drone teleoperation and TurtleBot autonomous navigation.
+This project aims to develop autonomous navigation capabilities for drones using ROS 2, Gazebo, and the Navigation 2 (Nav2) stack. The project was partially completed with significant achievements in setting up drone teleoperation and TurtleBot autonomous navigation.
 
 ## Table of Contents
 
